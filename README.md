@@ -21,3 +21,31 @@ Replace the placeholder texts in the HTML blocks with your specific content. The
    - `__IMAGE_URL__`: URL of the image used for social media previews and cards (preferably a `.gif`).
 
 Replace the favicon image files with yours in `IMAGE` folder. **The size of images must not be change and remain same!**
+
+## Images
+
+The images you need for your favicon are:
+
+| File Name              | Pixel Size |
+|:-----------------------|:-----------|
+| apple-icon-114x114.png | 114x114    |
+| apple-icon-120x120.png | 120x120    |
+| apple-icon-144x144.png | 144x144    |
+| apple-icon-152x152.png | 152x152    |
+| apple-icon-167x167.png | 167x167    |
+| apple-icon-180x180.png | 180x180    |
+| apple-icon-57x57.png   | 57x57      |
+| apple-icon-60x60.png   | 60x60      |
+| apple-icon-72x72.png   | 72x72      |
+| apple-icon-76x76.png   | 76x76      |
+| favicon-512x512.png    | 512x512    |
+| favicon-256x256.png    | 256x256    |
+| favicon-384x384.png    | 384x384    |
+| favicon-192x192.png    | 192x192    |
+| favicon-144x144.png    | 144x144    |
+| favicon-96x96.png      | 96x96      |
+| favicon-48x48.png      | 48x48      |
+| favicon-32x32.png      | 32x32      |
+| favicon-16x16.png      | 16x16      |
+
+Which is the biggest image you can use is `512x512`.
