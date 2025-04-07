@@ -29,8 +29,8 @@ The images you need for your favicon are:
 | File Name              | Pixel Size |
 |:-----------------------|:-----------|
 | favicon-512x512.png    | 512x512    |
-| favicon-256x256.png    | 256x256    |
 | favicon-384x384.png    | 384x384    |
+| favicon-256x256.png    | 256x256    |
 | favicon-192x192.png    | 192x192    |
 | apple-icon-180x180.png | 180x180    |
 | apple-icon-167x167.png | 167x167    |
